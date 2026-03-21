@@ -1,12 +1,15 @@
-# React + Vite - Boas Práticas com React
+# 🎯 Gerenciador de Metas - SPA com React
 
 ![Node.js](https://img.shields.io/badge/node-24.14.0-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-19-blue?logo=react)
 ![Vite](https://img.shields.io/badge/vite-5-purple?logo=vite)
 
-Este projeto é uma aplicação criada em grupo utilizando o react
 
-O objetivo do projeto é aplicar e demonstrar **boas práticas no desenvolvimento com React**, incluindo organização de componentes, estrutura de pastas e padrões recomendados.
+Este foi um projeto desenvolvido em grupo utilizando React.js.
+
+A aplicação consiste em uma SPA (Single Page Application) para gerenciamento de metas, permitindo o cadastro, edição e exclusão de objetivos, além da funcionalidade de limpeza de histórico.
+
+Durante o desenvolvimento, foram aplicados conceitos fundamentais do React, como componentização, gerenciamento de estado e manipulação de eventos.
 
 
 ## 🚀 Live Demo
@@ -15,16 +18,16 @@ O objetivo do projeto é aplicar e demonstrar **boas práticas no desenvolviment
 
 <br>
 
-[![▶ Acessar Projeto](https://img.shields.io/badge/▶%20ACESSAR%20PROJETO-2ea043?style=for-the-badge&logoColor=white)](https://tomd4vs.github.io/project-react/)
-[![Deploy](https://img.shields.io/badge/DEPLOY-GITHUB%20PAGES-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://tomd4vs.github.io/project-react/)
+[![▶ Acessar Projeto](https://img.shields.io/badge/▶%20ACESSAR%20PROJETO-2ea043?style=for-the-badge&logoColor=white)](https://tomd4vs.github.io/Metas-projeto-final/)
+[![Deploy](https://img.shields.io/badge/DEPLOY-GITHUB%20PAGES-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://tomd4vs.github.io/Metas-projeto-final/)
 
 
 ## 🚀 Tecnologias utilizadas
 
 * React
 * Vite
-* JavaScript / TypeScript (se aplicável)
-* CSS / Styled Components / Tailwind (se aplicável)
+* JavaScript / TypeScript
+* CSS / Styled Components / Tailwind
 
 ---
 
@@ -58,6 +61,7 @@ http://localhost:5173
 
 ```
 src/
+ ├── public/
  ├── components/
  ├── pages/
  ├── contexts/
@@ -78,7 +82,7 @@ Este projeto foi criado para praticar e demonstrar:
 
 ---
 
-## 🧑‍💻 Autor
+## 🚀 Desenvolvedores
 
 
 <table>
