@@ -6,7 +6,7 @@ const TIME = [
         papel: 'Desenvolvedor Front-end',
         github: 'https://github.com/CalebeMaia',
         avatar: 'https://github.com/CalebeMaia.png',
-        iniciais: 'TD',
+        iniciais: 'caleb',
     },
 
     {
@@ -22,7 +22,7 @@ const TIME = [
         papel: 'Desenvolvedor Front-end',
         github: 'https://github.com/rafaeldevstudio',
         avatar: 'https://github.com/rafaeldevstudio.png',
-        iniciais: 'TD',
+        iniciais: 'rafael',
     },
 
     {
@@ -30,7 +30,15 @@ const TIME = [
         papel: 'Desenvolvedor Front-end',
         github: ' https://github.com/lucas-lsz',
         avatar: ' https://github.com/lucas-lsz.png',
-        iniciais: 'TD',
+        iniciais: 'lucas',
+    },
+
+    {
+        nome: 'Benjamin Farias',
+        papel: 'Desenvolvedor Front-end',
+        github: ' https://github.com/bennyfarias',
+        avatar: ' https://github.com/bennyfarias.png',
+        iniciais: 'Benny',
     },
 ]
 

@@ -111,5 +111,11 @@ Este projeto foi criado para praticar e demonstrar:
         <sub><b>Lucas Santos</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/bennyfarias">
+        <img src="https://github.com/bennyfarias.png" width="80" /><br />
+        <sub><b>Benjamin Farias</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
