@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/metas-projeto-final/'
+  base: '/Metas-projeto-final/'
 })
