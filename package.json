@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tomd4vs.github.io/Metas-projeto-final/",
+  "homepage": "https://tomd4vs.github.io/metas-projeto-final/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
