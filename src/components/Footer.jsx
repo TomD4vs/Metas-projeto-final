@@ -1,14 +1,22 @@
+import { useState } from 'react'
+import ModalTime from './Modaltime'
+
 function Footer() {
+    const [open, setOpen] = useState(false)
+
     return (
-        <footer>
-            <small>
-                © {new Date().getFullYear()} - Desenvolvimento Front-end com React
-                {' · '}
-                <a href="https://github.com/TomD4vs" target="_blank" rel="noreferrer">
-                    TomD4vs
-                </a>
-            </small>
-        </footer>
+        <>
+            <footer>
+                <small>
+                    © {new Date().getFullYear()} - Projeto Metas
+                    {' · '}
+                    <button className="footer-btn-time" onClick={() => setOpen(true)}>
+                        Ver time
+                    </button>
+                </small>
+            </footer>
+            <ModalTime isOpen={open} onFechar={() => setOpen(false)} />
+        </>
     )
 }
 
