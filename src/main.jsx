@@ -7,7 +7,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/metas-projeto-final/">
+    <BrowserRouter basename="/Metas-projeto-final/">
       <MetasProvider>
         <App />
       </MetasProvider>
