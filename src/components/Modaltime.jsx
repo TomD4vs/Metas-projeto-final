@@ -24,6 +24,14 @@ const TIME = [
         avatar: 'https://github.com/rafaeldevstudio.png',
         iniciais: 'TD',
     },
+
+    {
+        nome: 'Lucas Santos',
+        papel: 'Desenvolvedor Front-end',
+        github: ' https://github.com/lucas-lsz',
+        avatar: ' https://github.com/lucas-lsz.png',
+        iniciais: 'TD',
+    },
 ]
 
 function ModalTime({ isOpen, onFechar }) {

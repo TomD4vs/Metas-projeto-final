@@ -105,5 +105,11 @@ Este projeto foi criado para praticar e demonstrar:
         <sub><b>TomD4vs</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/lucas-lsz">
+        <img src="https://github.com/lucas-lsz.png" width="80" /><br />
+        <sub><b>Lucas Santos</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
